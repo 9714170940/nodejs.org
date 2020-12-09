@@ -34,7 +34,6 @@ This documentation describes the built-in modules provided by Node.js. It does n
 * [Node.js 5.x](https://nodejs.org/docs/latest-v5.x/api/)
 * [Node.js 4.x](https://nodejs.org/docs/latest-v4.x/api/)
 * [Node.js 0.12.x](https://nodejs.org/docs/latest-v0.12.x/api/)
-* [Node.js 0.10.x](https://nodejs.org/docs/latest-v0.10.x/api/)
 * [All versions](https://nodejs.org/docs/)
 
 </div>
